@@ -11,6 +11,7 @@
 //     [v1.2] Wei Gong open-src@qq.com   2025-12-12 18:07:17
 //         * simulating view student schedule
 //
+//haode1haode1
 import registrar;
 import std;
 
